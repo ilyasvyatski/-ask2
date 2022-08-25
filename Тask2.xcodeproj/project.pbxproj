@@ -13,6 +13,7 @@
 		18677E9928B773BC00D52B9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18677E9728B773BC00D52B9D /* Main.storyboard */; };
 		18677E9B28B773BE00D52B9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18677E9A28B773BE00D52B9D /* Assets.xcassets */; };
 		18677E9E28B773BE00D52B9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18677E9C28B773BE00D52B9D /* LaunchScreen.storyboard */; };
+		18677EA728B79D9D00D52B9D /* CountryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18677EA628B79D9D00D52B9D /* CountryTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		18677E9A28B773BE00D52B9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18677E9D28B773BE00D52B9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18677E9F28B773BE00D52B9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18677EA628B79D9D00D52B9D /* CountryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				18677E9128B773BC00D52B9D /* AppDelegate.swift */,
 				18677E9328B773BC00D52B9D /* SceneDelegate.swift */,
 				18677E9528B773BC00D52B9D /* ViewController.swift */,
+				18677EA628B79D9D00D52B9D /* CountryTableViewCell.swift */,
 				18677E9728B773BC00D52B9D /* Main.storyboard */,
 				18677E9A28B773BE00D52B9D /* Assets.xcassets */,
 				18677E9C28B773BE00D52B9D /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18677EA728B79D9D00D52B9D /* CountryTableViewCell.swift in Sources */,
 				18677E9628B773BC00D52B9D /* ViewController.swift in Sources */,
 				18677E9228B773BC00D52B9D /* AppDelegate.swift in Sources */,
 				18677E9428B773BC00D52B9D /* SceneDelegate.swift in Sources */,
